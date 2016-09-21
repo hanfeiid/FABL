@@ -7,7 +7,7 @@ The dataset used in the experiment is compressed as dataset.zip. The data format
 
 's1_a2_e3.txt' stores the data when performing activity 2 by subject 1 for the third time. There are 5 columns in the data file
 
-|     Frame \#  | Skeletal joint \# |     x cooridnate      |     y coordinate      |     z coordinate      |    
+|     Frame \#  | Skeletal joint \# |     x coordinate      |     y coordinate      |     z coordinate      |    
 | ------------- | -------------     |     -------------     |     -------------     |     -------------     |
 |     1         |     1             |     1.43              |     0.03              |     0.32              |
 |     1         |     2             |     1.41              |     0.03              |     0.10              |
