@@ -32,6 +32,6 @@ If you use our method and/or codes, please cite our paper
       AUTHOR    = {Fei Han AND Xue Yang AND Christopher Reardon AND Yu Zhang AND Hao Zhang},
       TITLE     = {Simultaneous Feature and Body-Part Learning for Real-Time Robot Awareness of Human Behaviors},
       BOOKTITLE = {IEEE International Conference on Robotics and Automation (ICRA)},
-      YEAR      = {Submitted}
+      YEAR      = {2017}
   }
 ```
